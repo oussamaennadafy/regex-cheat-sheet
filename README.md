@@ -24,16 +24,16 @@ Rages :
 
 Character Classes
 
- /./   => matches all, expect new lines or other line terminators
- /\w/  => matches word characters. [ a-z, A-Z, 0-9 and underscore ]
- /\W/  => matches non word characters
- /\d/  => matches digits from 0 to 9
- /\D/  => matches non digits characters
- /\s/  => matches whitespace characters
- /\S/  => matches non whitespace characters
+ /./   => matches all, expect new lines or other line terminators <br />
+ /\w/  => matches word characters. [ a-z, A-Z, 0-9 and underscore ] <br />
+ /\W/  => matches non word characters <br />
+ /\d/  => matches digits from 0 to 9 <br />
+ /\D/  => matches non digits characters <br />
+ /\s/  => matches whitespace characters <br />
+ /\S/  => matches non whitespace characters <br />
 
- /\b/  => matches at the beginning or at the end of a word
- /\B/  => matches not at the beginning / end of a word
+ /\b/  => matches at the beginning or at the end of a word <br />
+ /\B/  => matches not at the beginning / end of a word <br />
 
 ----------------------
 
