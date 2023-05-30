@@ -39,15 +39,15 @@ Character Classes
 
 Quantifiers
 
-n+ => one or more ( if more than one grap all of them )
-n? => zero or one ( optional )
-n* => zero or more ( optional but if you found more than one grap all of them )
+n+ => one or more ( if more than one grap all of them ) <br />
+n? => zero or one ( optional ) <br />
+n* => zero or more ( optional but if you found more than one grap all of them ) <br />
 
-n{x}    => number of x
-n{x,y}  => range x-y
-n{x,}   => at least x
+n{x}    => number of x <br />
+n{x,y}  => range x-y <br />
+n{x,}   => at least x <br />
 
-$    =>  End with something
-^    => start with something
-?=   => followed by somehting
+$    =>  End with something <br />
+^    => start with something <br />
+?=   => followed by somehting <br />
 ?!   => not followed by something
